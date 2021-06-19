@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*UTILITY CLASSES*/
+.text-primary{
+    color:rgb(124, 16, 124);
+}
+.text-secondary {
+    color:rgb(206, 194, 194) ;
+}
+
+.text-light{
+    color: rgb(233, 230, 230);
+}
+
+.lead{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.bg-light{
+    background-color:white;
+}
+
+.bg-light2{
+    background-color: whitesmoke;
+}
+
+.bg-bright{
+    background-color:rgb(124, 16, 124);
+}
+
+.btn{
+    color:black;
+    background: rgb(243, 231, 231);
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color:plum;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.py-3{
+    padding: 3rem 0;
+}
+
+.py-4{
+    padding: 4rem 0;
+}
+
+.p-2{
+    padding: 0.8rem;
+}
+.p-3{
+    padding: 3rem;
+}
+
+.d-none{
+    display: none;
+}
+
+.display-4{
+    display: inline;
+    font-size: 80px;
+}
+
+.my-2{
+    margin: 2rem 0;
+}
+.my-5{
+    margin: 5rem 0;
+}
+
+.font-style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-decoration: 3px purple underline solid;
+}
+
+.font-style1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+}
+
